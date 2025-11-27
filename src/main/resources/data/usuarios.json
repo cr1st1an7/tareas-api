@@ -1,0 +1,15 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "rol": "ADMIN",
+    "activo": true
+  },
+
+  {
+    "nombre": "María López",
+    "email": "maria.lopez@example.com",
+    "rol": "USER",
+    "activo": true
+  }
+]

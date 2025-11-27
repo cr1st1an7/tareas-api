@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Sistema de Ventas",
+    "descripcion": "Proyecto para administrar ventas",
+    "fechaInicio": "2025-01-10",
+    "fechaFin": "2025-04-20",
+    "usuario": {
+      "id": 1
+    },
+    "activo": true
+  },
+
+  {
+    "nombre": "Aplicación Móvil",
+    "descripcion": "App móvil corporativa",
+    "fechaInicio": "2025-02-01",
+    "fechaFin": "2025-06-15",
+    "usuario": {
+      "id": 2
+    },
+    "activo": true
+  }
+]

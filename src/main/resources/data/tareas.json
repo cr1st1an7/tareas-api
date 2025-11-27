@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Implementar login",
+    "descripcion": "Crear autenticación básica",
+    "estado": "PENDIENTE",
+    "prioridad": "ALTA",
+    "proyecto": {
+      "id": 1
+    },
+    "activo": true
+  },
+
+  {
+    "titulo": "Diseñar dashboard",
+    "descripcion": "UI para pantalla inicial",
+    "estado": "EN_PROGRESO",
+    "prioridad": "MEDIA",
+    "proyecto": {
+      "id": 2
+    },
+    "activo": true
+  }
+]
